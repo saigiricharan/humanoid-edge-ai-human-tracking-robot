@@ -2,6 +2,7 @@
 Humanoid-inspired autonomous robot using Edge AI, ROS2, Raspberry Pi, ESP32, and YOLOv8 for real-time human detection and tracking.
 
 # 🤖 Humanoid Robot Using Edge AI for Real-Time Human Detection and Tracking
+
 ## 📷 Project Prototype
 
 ![Robot Front](images/robot_front.jpg.jpeg)
@@ -103,6 +104,15 @@ L298N Motor Drivers
 
 ---
 
+## 🏆 Key Achievements
+
+- Developed a complete ROS2-based autonomous tracking robot.
+- Integrated Raspberry Pi and ESP32 through serial communication.
+- Implemented real-time human detection using YOLOv8 ONNX.
+- Demonstrated autonomous human following using Edge AI.
+
+---
+
 ## 🚀 Future Enhancements
 
 - Voice Control
@@ -128,9 +138,12 @@ Supports smart surveillance and intelligent automation.
 ---
 
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-S.Sai Giri Charan and
-Rohan Krishnan susarla
-Electronics and Communication Engineering
-Dayananda Sagar University
+**S. Sai Giri Charan**
+- Electronics and Communication Engineering
+- Dayananda Sagar University
+
+**Rohan Krishnan Susarla**
+- Electronics and Communication Engineering
+- Dayananda Sagar University
