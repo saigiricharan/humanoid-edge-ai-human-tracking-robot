@@ -1,0 +1,14 @@
+vision_node:
+  ros__parameters:
+    confidence_threshold: 0.4
+
+tracker_node:
+  ros__parameters:
+    target_area: 30000
+    tolerance: 10000
+    dead_zone: 60
+
+serial_bridge:
+  ros__parameters:
+    serial_port: "/dev/ttyUSB0"
+    baudrate: 115200
